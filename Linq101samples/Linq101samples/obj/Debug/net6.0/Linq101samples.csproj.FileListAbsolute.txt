@@ -1,0 +1,15 @@
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.csproj.AssemblyReference.cache
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.AssemblyInfoInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.AssemblyInfo.cs
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.csproj.CoreCompileInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\bin\Debug\net6.0\Linq101samples.exe
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\bin\Debug\net6.0\Linq101samples.deps.json
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\bin\Debug\net6.0\Linq101samples.runtimeconfig.json
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\bin\Debug\net6.0\Linq101samples.dll
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\bin\Debug\net6.0\Linq101samples.pdb
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.dll
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\refint\Linq101samples.dll
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.pdb
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\Linq101samples.genruntimeconfig.cache
+C:\SD-DT2-Approval_Management_System-UI\Linq101samples\Linq101samples\obj\Debug\net6.0\ref\Linq101samples.dll

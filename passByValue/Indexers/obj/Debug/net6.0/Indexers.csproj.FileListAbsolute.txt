@@ -1,0 +1,15 @@
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\bin\Debug\net6.0\Indexers.exe
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\bin\Debug\net6.0\Indexers.deps.json
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\bin\Debug\net6.0\Indexers.runtimeconfig.json
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\bin\Debug\net6.0\Indexers.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\bin\Debug\net6.0\Indexers.pdb
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.csproj.AssemblyReference.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfoInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfo.cs
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.csproj.CoreCompileInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\refint\Indexers.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.pdb
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\Indexers.genruntimeconfig.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\Indexers\obj\Debug\net6.0\ref\Indexers.dll

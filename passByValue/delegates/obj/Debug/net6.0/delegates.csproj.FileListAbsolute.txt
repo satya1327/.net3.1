@@ -1,0 +1,15 @@
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\bin\Debug\net6.0\delegates.exe
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\bin\Debug\net6.0\delegates.deps.json
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\bin\Debug\net6.0\delegates.runtimeconfig.json
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\bin\Debug\net6.0\delegates.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\bin\Debug\net6.0\delegates.pdb
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.csproj.AssemblyReference.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.AssemblyInfoInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.AssemblyInfo.cs
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.csproj.CoreCompileInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\refint\delegates.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.pdb
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\delegates.genruntimeconfig.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\delegates\obj\Debug\net6.0\ref\delegates.dll

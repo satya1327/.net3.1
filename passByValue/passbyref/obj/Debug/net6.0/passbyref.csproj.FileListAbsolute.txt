@@ -1,0 +1,15 @@
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\bin\Debug\net6.0\passbyref.exe
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\bin\Debug\net6.0\passbyref.deps.json
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\bin\Debug\net6.0\passbyref.runtimeconfig.json
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\bin\Debug\net6.0\passbyref.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\bin\Debug\net6.0\passbyref.pdb
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.csproj.AssemblyReference.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.GeneratedMSBuildEditorConfig.editorconfig
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.AssemblyInfoInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.AssemblyInfo.cs
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.csproj.CoreCompileInputs.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\refint\passbyref.dll
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.pdb
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\passbyref.genruntimeconfig.cache
+C:\SD-DT2-Approval_Management_System-UI\passByValue\passbyref\obj\Debug\net6.0\ref\passbyref.dll
