@@ -1,0 +1,43 @@
+﻿@model SessionBasesLogin.Models.Login
+@{
+    ViewBag.Title = "Login page";
+}
+<h2>Welcome to login page</h2>
+
+@using (Html.BeginForm("Index","Login",FormMethod.Post)){
+
+    <table>
+
+       <tr>
+           <td>
+               @Html.LabelFor(model=>model.UserName)
+          </td>
+          <td>
+               @Html.TextBoxFor(model=>model.UserName)
+           </td>
+        </tr>
+        <tr>
+           <td>
+               @Html.LabelFor(model=>model.Password)
+               </td>
+               <td>
+               @Html.TextBoxFor(model=>model.Password)
+                @ViewBag.ErrorMsg
+           </td>
+        </tr>
+        <tr>
+            <td>
+            @Html.CheckBoxFor(model=>model.rememberMe)
+            @Html.LabelFor(model=>model.rememberMe)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="login" asp-action="Indexlogin" asp-controller="login" />
+    </td>  
+    </tr>
+
+    </table>
+
+
+}
